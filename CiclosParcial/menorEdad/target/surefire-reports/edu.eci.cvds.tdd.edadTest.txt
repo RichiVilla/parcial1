@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: edu.eci.cvds.tdd.edadTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.008 s <<< FAILURE! - in edu.eci.cvds.tdd.edadTest
+validar_EdadInvalida(edu.eci.cvds.tdd.edadTest)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: Edad Inválida!
+	at edu.eci.cvds.tdd.edadTest.validar_EdadInvalida(edadTest.java:22)
+
